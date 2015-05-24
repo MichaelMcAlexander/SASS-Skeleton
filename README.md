@@ -1,0 +1,2 @@
+# SASS-Skeleton
+This is a very basic SASS template that you can use to start a project. I left most of the files blank but for the few lines I did write, I made them .scss files. You can obviously use .sass if you like. Please use if you like and also I would love to see any changes you make to improve the code. I included the Bourbon mixin library, the Neat grid system, Bitters for better default styling and normalize.css file for a css reset.
