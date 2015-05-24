@@ -6,8 +6,10 @@
 		@include size(200px);
 		@include transform(rotate(90deg));
 		text-align: center;
-		@include span-columns(3);
-		@include shift(4.5);
+		//@include span-columns(3);
+		//@include shift(4.5);
+		display: block;
+		margin: 0 auto;
 		border-radius: 50%;
 	}
 }
